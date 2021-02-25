@@ -2,7 +2,7 @@
 
 [![GitHub Build Status](https://github.com/cisagov/cisagov/workflows/build/badge.svg)](https://github.com/cisagov/cisagov/actions)
 
-Welcome to `cisagov`, the GitHub organization for CISA.
+Welcome to `cisagov`, the GitHub organization for the Cybersecurity and Infrastructure Security Agency (CISA).
 
 ## Getting started with GitHub ##
 
@@ -14,8 +14,8 @@ Welcome to `cisagov`, the GitHub organization for CISA.
 ## Developer resources ##
 
 We have a [cisagov development-guide](www.github.com/cisagov/development-guide)
-repository, which contains coding standards, how to set up a development
-environment, and other information
+repository, which contains coding standards, steps for setting up a development
+environment, and other information.
 
 ## Contributing ##
 
