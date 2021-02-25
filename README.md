@@ -6,10 +6,10 @@ Welcome to `cisagov`, the GitHub organization for CISA.
 
 ## Getting started with GitHub ##
 
-  - How do I make an account?
-  - How do I get access?
-  - How do I make a repository?
-  - Content guides & best practices
+- How do I make an account?
+- How do I get access?
+- How do I make a repository?
+- Content guides & best practices
 
 ## Developer resources ##
 
