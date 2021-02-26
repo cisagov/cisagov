@@ -2,22 +2,21 @@
 
 [![GitHub Build Status](https://github.com/cisagov/cisagov/workflows/build/badge.svg)](https://github.com/cisagov/cisagov/actions)
 
-This is a generic skeleton project that can be used to quickly get a
-new [cisagov](https://github.com/cisagov) GitHub project started.
-This skeleton project contains [licensing information](LICENSE), as
-well as [pre-commit hooks](https://pre-commit.com) and
-[GitHub Actions](https://github.com/features/actions) configurations
-appropriate for the major languages that we use.
+Welcome to `cisagov`, the GitHub organization for the Cybersecurity and
+Infrastructure Security Agency (CISA).
 
-In many cases you will instead want to use one of the more specific
-skeleton projects derived from this one.
+## Getting started with GitHub ##
 
-## New Repositories from a Skeleton ##
+- How do I make an account?
+- How do I get access?
+- How do I make a repository?
+- Content guides & best practices
 
-Please see our [Project Setup guide](https://github.com/cisagov/development-guide/tree/develop/project_setup)
-for step-by-step instructions on how to start a new repository from
-a skeleton. This will save you time and effort when configuring a
-new repository!
+## Developer resources ##
+
+We have a [cisagov development-guide](www.github.com/cisagov/development-guide)
+repository, which contains coding standards, steps for setting up a development
+environment, and other information.
 
 ## Contributing ##
 
