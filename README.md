@@ -5,7 +5,8 @@
 Welcome to `cisagov`, the GitHub home for the Cybersecurity and Infrastructure
 Security Agency (CISA)!
 
-This repository is aimed to make it easier to get working with GitHub and Free and Open Source Software (FOSS) for people who work at or with CISA.
+This repository is aimed to make it easier to get working with GitHub and Free
+and Open Source Software (FOSS) for people who work at or with CISA.
 
 For developer-focused documentation and guides, please visit our
 [development-guide repository](https://github.com/cisagov/development-guide/).
@@ -42,13 +43,14 @@ account?
   team member, or a `cisagov` administrator to get access
 - How do I make a new repository?
   - [GitHub's creating a repository documentation](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-new-repository)
-  - [ cisagov 's Project Setup guide](https://github.com/cisagov/development-guide/tree/develop/project_setup)
+  - [`cisagov`'s Project Setup guide](https://github.com/cisagov/development-guide/tree/develop/project_setup)
 
 ## Policies and content guides ##
 
 - What belongs in `cisagov` versus another GitHub organization?
   - Here are some questions to ask when considering posting a project:
-    - Does CISA use or develop the software? Is it developed by or for one of the groups or divisions within CISA?
+    - Does CISA use or develop the software? Is it developed by or for one of
+    the groups or divisions within CISA?
       - If not, we recommend the authors create their own GitHub organization
       and post their work there
     - What source control system is in place currently?
@@ -60,11 +62,15 @@ account?
       recommend the repository be archived to make that clear to people who
       may want to use it
 - What belongs on [cisa.gov](https://www.cisa.gov) versus on `cisagov`?
-  - The [cisa.gov](https://www.cisa.gov) site is primarily focused at an audience outside of CISA, such as Critical Infrastructure partners or the public
+  - The [cisa.gov](https://www.cisa.gov) site is primarily focused at an
+  audience outside of CISA, such as Critical Infrastructure partners or the
+  public
   - `cisagov` is for both internal and external users and partners and
   specifically to share projects with the public as well as internal users
 - Working in the public (dos and don'ts, best practices)
-  - As a best practice, use the `cisagov` organization issue templates and pull request templates. These templates are available in all repositories created in the `cisagov` organization by default.
+  - As a best practice, use the `cisagov` organization issue templates and
+  pull request templates. These templates are available in all repositories
+  created in the `cisagov` organization by default.
   - As a best practice, we require code reviews before merging pull requests
   through using [branch protection](https://docs.github.com/en/github/administering-a-repository/about-protected-branches)
 - When should I talk to CISA External Affairs (EA)?
@@ -76,9 +82,11 @@ account?
 
 Have an idea about how to make these pages better? [File an issue!](https://github.com/cisagov/cisagov/issues/new/choose)
 
-For any repository-specific questions or feedback, please make an issue in that repository so the appropriate team will see it.
+For any repository-specific questions or feedback, please make an issue in
+that repository so the appropriate team will see it.
 
-For more about CISA as an agency or any of its subcomponents, please visit the [About CISA page](https://www.cisa.gov/about-cisa).
+For more about CISA as an agency or any of its subcomponents, please visit the
+[About CISA page on cisa.gov](https://www.cisa.gov/about-cisa).
 
 For other GitHub-related questions, feel free to [email us](mailto:github@cisa.dhs.gov).
 
