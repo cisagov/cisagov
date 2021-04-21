@@ -27,7 +27,7 @@ account?
   - [18F Intro to GitHub](https://handbook.tts.gsa.gov/intro-to-github/)
   - [Digital.gov intro to GitHub](https://digital.gov/resources/an-introduction-github/)
   - Always remember that GitHub is a version control system, so all changes
-  are saved, so there is nothing we can't fix or undo.
+  are saved and there is nothing we can't fix or undo.
 
 ### GitHub access ###
 
@@ -67,7 +67,7 @@ account?
   public
   - `cisagov` is for both internal and external users, as well as partners. It exists
   specifically to share projects with the public as well as internal users.
-- Working in the public (dos and don'ts, best practices)
+- Working in public (dos and don'ts, best practices)
   - As a best practice, use the `cisagov` organization issue templates and
   pull request templates. These templates are available by default in
   all repositories created in the `cisagov` organization.
