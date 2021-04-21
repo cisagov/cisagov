@@ -69,7 +69,7 @@ account?
   specifically to share projects with the public as well as internal users.
 - Working in the public (dos and don'ts, best practices)
   - As a best practice, use the `cisagov` organization issue templates and
-  pull request templates. These templates are available by default in 
+  pull request templates. These templates are available by default in
   all repositories created in the `cisagov` organization.
   - As a best practice, we require code reviews before merging pull requests.
   This is done using [branch protection](https://docs.github.com/en/github/administering-a-repository/about-protected-branches).
