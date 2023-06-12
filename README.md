@@ -32,15 +32,18 @@ account?
 ### GitHub access ###
 
 - How do I get access to the `cisagov` organization?
-  - For federal employees, send your GitHub username to github@cisa.gov
+  - For federal employees, send your GitHub username to
+    [github@cisa.gov](mailto:github@cisa.gov)
   - For contractors, ask your fed lead to send in your username
 - How do I get put on a team within the `cisagov` organization?
   - See [Github's organizations and teams documentation](https://docs.github.com/en/organizations)
   - You'll need to contact a team member or a `cisagov` administrator
 - How do I get access to a specific repository?
-  - Most repositories are associated with the [teams](https://docs.github.com/en/organizations/organizing-members-into-teams)
-  that use them, so to get access you can contact github@cisa.gov, a
-  team member, or a `cisagov` administrator to get access
+  - Most repositories are associated with the
+  [teams](https://docs.github.com/en/organizations/organizing-members-into-teams)
+  that use them, so to get access you can contact
+  [github@cisa.gov](mailto:github@cisa.gov), a team member, or a
+  `cisagov` administrator to get access
 - How do I make a new repository?
   - [GitHub's documentation on creating a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-new-repository)
   - [`cisagov`'s Project Setup guide](https://github.com/cisagov/development-guide/tree/develop/project_setup)
