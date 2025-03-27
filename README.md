@@ -33,7 +33,7 @@ account?
 
 - How do I get access to the `cisagov` organization?
   - For federal employees, send your GitHub username to
-    [github@cisa.gov](mailto:github@cisa.gov)
+    [github@cisa.dhs.gov](mailto:github@cisa.dhs.gov)
   - For contractors, ask your fed lead to send in your username
 - How do I get put on a team within the `cisagov` organization?
   - See [Github's organizations and teams documentation](https://docs.github.com/en/organizations)
