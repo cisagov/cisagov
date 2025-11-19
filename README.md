@@ -1,6 +1,8 @@
 # Welcome to `cisagov` #
 
 [![GitHub Build Status](https://github.com/cisagov/cisagov/workflows/build/badge.svg)](https://github.com/cisagov/cisagov/actions)
+[![License](https://img.shields.io/github/license/cisagov/cisagov)](https://spdx.org/licenses/)
+[![CodeQL](https://github.com/cisagov/cisagov/workflows/CodeQL/badge.svg)](https://github.com/cisagov/cisagov/actions/workflows/codeql-analysis.yml)
 
 Welcome to `cisagov`, the GitHub home for the Cybersecurity and Infrastructure
 Security Agency (CISA)!
